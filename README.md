@@ -1,2 +1,2 @@
-# jamesrenxiangyu.github.io
-my home page
+# HomePage (CV)
+my home page url: jamesrenxiangyu.github.io
