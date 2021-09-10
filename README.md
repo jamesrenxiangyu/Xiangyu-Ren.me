@@ -1,2 +1,2 @@
 # HomePage (CV)
-my home page url: jamesrenxiangyu.me
+my home page url: jamesrenxiangyu.github.io
